@@ -1,2 +1,2 @@
-Group,Segment,CAE,Normalized by Length,Normalized by Weight,Normalized by Cost,Average Deviation,Avg Dev Normalized by Length,Avg Dev Normalized by Weight,Avg Dev Normalized by Cost
-PETG_05,overall,1812.80045654009,5.701667424477741,1812.80045654009,72.5410346754738,0.008495484462471834,2.6720219999989416e-05,0.008495484462471834,0.00033995536064313067
+Group,Segment,Normalized by Length,Normalized by Weight,Normalized by Cost
+PETG_05,overall,5.70125888747997,1812.8659475466525,72.54365536401171
