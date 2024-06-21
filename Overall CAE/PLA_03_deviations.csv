@@ -1,2 +1,2 @@
-Group,Segment,Normalized by Length,Normalized by Weight,Normalized by Cost
-PLA_03,overall,10.944956983943584,3570.584590177609,171.08694730127496
+Group,Segment,Normalized by Length,Normalized by Weight,Normalized by Cost,Cost,Dollars per Kilogram
+PLA_03,overall,10.944956983943584,3570.584590177609,171.08694730127496,20.87,20.87

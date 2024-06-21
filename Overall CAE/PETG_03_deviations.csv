@@ -1,2 +1,2 @@
-Group,Segment,Normalized by Length,Normalized by Weight,Normalized by Cost
-PETG_03,overall,10.385750245538683,3339.3001577723408,73.2302666178145
+Group,Segment,Normalized by Length,Normalized by Weight,Normalized by Cost,Cost,Dollars per Kilogram
+PETG_03,overall,10.385750245538683,3339.3001577723408,73.2302666178145,45.6,45.6
